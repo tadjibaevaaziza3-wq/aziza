@@ -1,0 +1,5 @@
+{
+  "name": "IntelliCASA | AI Furniture Design",
+  "description": "A modern web application for a furniture company allowing customers to browse furniture, filter by various criteria, and use an interactive 2D room builder to design their space, customize furniture, and see real-time price calculations before placing an order.",
+  "requestFramePermissions": []
+}
